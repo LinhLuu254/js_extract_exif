@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "exif-async": "^1.0.6",
+    "parse-dms": "^0.0.5"
+  }
+}
